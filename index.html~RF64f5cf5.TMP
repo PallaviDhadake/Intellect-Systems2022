@@ -1,0 +1,813 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>Intellect Systems Website design development, SEO, SMS gateway company Sangli, Maharashtra India</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+    <!-- Vendor CSS File -->
+    <link href="Vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="Vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <!--<link href="assets/vendor/aos/aos.css" rel="stylesheet">-->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <link href="Vendor/glightbox/css/glightbox.min.css" rel="stylesheet" />
+   
+    <!-- Main CSS -->
+    <link href="css/intellect.css" rel="stylesheet" />
+
+</head>
+<body>
+    <!-- Header Start -->
+    <section id="Header">
+        <nav class="navbar navbar-expand-lg d-flex justify-content-end">
+            <div class="container mt-2 mb-2">
+                <a class="navbar-brand" href="#">
+                    <img src="images/intellect-logo1.png"  class="img-fluid"/>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <!--<span class="navbar-toggler-icon"></span>-->
+                    <img src="images/icons/nav-btn.png" />
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="light">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Services</a></li>
+                        <li><a href="#">News</a></li>
+                        <li><a href="#">Portfolio</a></li>
+                        <li><a href="#">Career</a></li>
+                        <li><a href="#">Enquiry</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                    <!--<a href="#" class="btncontact">Contact</a>-->
+                    
+                   
+                    <!--<ul class="navbar-nav ms-auto text-uppercase">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#banner">Home</a>
+                            <span></span>
+                            <span></span>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#about">About</a>
+                            <span></span>
+                            <span></span>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#portfolio">Services</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#portfolio">News</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#portfolio">Portfolio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#portfolio">Career</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#portfolio">Enquiry</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link btncontact" href="#contact">Contact</a>
+                        </li>
+                    </ul>-->
+                </div>
+            </div>
+        </nav>
+    </section>
+    <!-- Header End -->
+    <!-- Banner Start -->
+    <section id="banner" class="">
+        <div class="bannerspacer"></div>
+        <div class="">
+            <div class="bgbanner fixed-content">
+                    <div class="blackOverlay">
+                        <div class="container d-flex align-items-center justify-content-center" style="height:450px;">
+                            <div class="">
+                                <h1 class="semiBold clrWhite text-uppercase text-center" data-aos="zoom-out-down" data-aos-duration="1000">Business Website Design Development</h1>
+                                <span class="space30"></span>
+                                <div id="carouselExampleFade" class="carousel-fade" data-bs-ride="carousel">
+                                    <div class="carousel-inner">
+                                        <div class="carousel-item active text-center">
+                                            <span class="fontRegular semiMedium clrWhite">We follow the recent trends and ethics of Internet media to make your website </span>
+                                            <!--<img src="..." class="d-block w-100" alt="...">-->
+                                        </div>
+                                        <div class="carousel-item text-center">
+                                            <span class="fontRegular semiMedium clrWhite text-center">We follow the recent trends and ethics of Internet media to make your website </span>
+                                        </div>
+                                        <div class="carousel-item text-center">
+                                            <span class="fontRegular semiMedium clrWhite text-center">more optimal, device compatible and saleable. making website attractive is one</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+</section>
+    <!-- Banner End -->
+
+    <!-- waht we do start -->
+    <section id="whatwedo">
+        <span class="space80"></span>
+        <div class="container">
+            <div class="row" data-aos="fade-down" data-aos-duration="1000">
+                <h5 class="text-center text-uppercase semiBold">What WE Do</h5>
+                <div class="gy-5"></div>
+                <p class="light medium lh-5 text-center">
+                    We are delicately working from 2007 in various I.T. services like Website design and development, Web based application development, Search Engine Optimization services and also we work for customized desktop business application development.
+                </p>
+                <div class="col-lg-3 col-sm-6 col-xs-6 p-5 position-relative" data-aos="fade-up-right" data-aos-duration="1000">
+                    <a href="#" class="text-decoration-none">
+                        <img src="images/icons/web-design-green.png" />
+                        <span class="space10"></span> 
+                        <h6 class="semiBold semiMedium clrBlack">Website Design</h6>
+                    </a>
+                    <span class="space10"></span>
+                    <p class="fontRegular small">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 0s,</p>
+                    <span class="space20"></span>
+                    <a href="#"><img src="images/icons/right-arrow.png" /></a>
+                    <!--<div class="descbox position-absolute p-3">
+                        <h4 class="text-uppercase semiBold regular">Website <br />Design</h4>
+                    </div>-->
+                </div>
+                <div class="col-lg-3 col-sm-6 col-xs-6 p-5 position-relative" data-aos="fade-down-right" data-aos-duration="1000">
+                    <a href="#" class="text-decoration-none">
+                        <img src="images/icons/application-green.png" />
+                        <span class="space10"></span>
+                        <h6 class="semiBold semiMedium clrBlack">Web Applications</h6>
+                    </a>
+                    <span class="space10"></span>
+                    <p class="fontRegular small">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 0s,</p>
+                    <span class="space20"></span>
+                    <a href="#"><img src="images/icons/right-arrow.png" /></a>
+                    <!--<div class="descbox position-absolute p-3">
+            <h4 class="text-uppercase semiBold regular">Software <br />Development</h4>
+        </div>-->
+                </div>
+                <div class="col-lg-3 col-sm-6 col-xs-6 p-5 position-relative" data-aos="fade-up-left" data-aos-duration="1000">
+                    <a href="#" class="text-decoration-none">
+                        <img src="images/icons/ssl-green.png" />
+                        <span class="space10"></span>
+                        <h6 class="semiBold semiMedium clrBlack">SSL Cetificate</h6>
+                    </a>
+                    <span class="space10"></span>
+                    <p class="fontRegular small">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 0s,</p>
+                    <span class="space20"></span>
+                    <a href="#"><img src="images/icons/right-arrow.png" /></a>
+                    <!--<div class="descbox position-absolute p-3">
+            <h4 class="text-uppercase semiBold regular">Search <br />Engine<br />Optimization</h4>
+        </div>-->
+                </div>
+                <div class="col-lg-3 col-sm-6 col-xs-6 p-5 position-relative" data-aos="fade-down-right" data-aos-duration="1000">
+                    <a href="#" class="text-decoration-none">
+                        <img src="images/icons/software-development-green.png" />
+                        <span class="space10"></span>
+                        <h6 class="semiBold semiMedium clrBlack">Software Development</h6>
+                    </a>
+                    <span class="space10"></span>
+                    <p class="fontRegular small">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                    <span class="space20"></span>
+                    <a href="#"><img src="images/icons/right-arrow.png" /></a>
+                    <!--<div class="descbox position-absolute p-3">
+            <h4 class="text-uppercase semiBold regular">Domain <br />Hoisting</h4>
+        </div>-->
+                </div>
+            </div>
+        </div>
+    </section>  
+    <span class="space80"></span>
+    <!-- waht we do end -->
+
+    <!-- services start -->
+    <section id="services">
+        <span class="space50"></span>
+        <div class="serviceback">
+            <div class="blackOverlay">
+                <div class="container text-center" data-aos="zoom-in" data-aos-duration="1000">
+                    <div class="row p-5">
+                        <span class="space20"></span>
+                        <h4 class="text-center servtitle text-uppercase semiBold">Services</h4>
+                        <div class="gy-3"></div>
+                        <hr class="clrWhite" />
+                        <div class="gy-3"></div>
+                        <p class="fontRegular regular clrWhite text-center">We help small and medium-sized enterprises build, maintain,<br />and enhance their applications in the cloud.</p>
+                        <div class="gy-5"></div>
+                        <div class="col-sm-4 gy-2">
+                            <a href="#" class="text-decoration-none">
+                                <div class="servbox p-4 position-relative">
+                                    <img src="images/icons/web.png" />
+                                    <span class="space20"></span>
+                                    <p class="semiBold semiMedium clrBlack text-uppercase">Website Designing</p>
+                                    <span class="space15"></span>
+                                    <!--<div class="servinfo position-absolute p-4 text-center clrDarkGreen">
+                                        <p class="fontRegular semiBold regular">We design website in concept driven way. Static & Dynamic website design development is our specialization.We design Responsive layouts compatible to multiple browsers & devices.</p>
+                                    </div>-->
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-sm-4 gy-2">
+                            <a href="#" class="text-decoration-none">
+                                <div class="servbox p-4 position-relative">
+                                    <img src="images/icons/seo-services.png" />
+                                    <span class="space20"></span>
+                                    <p class="semiBold semiMedium clrBlack text-uppercase">SEO Services</p>
+                                    <span class="space15"></span>
+                                    <!--<div class="servinfo position-absolute p-4 text-center clrDarkGreen">
+                                        <p class="fontRegular semiBold regular">We do SEO efforts like on page seo as well as off page seo to make your website more searchable in search engines. So that it will help to grow sale of your business in Internet market 24 X 7.</p>
+                                    </div>-->
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-sm-4 gy-2">
+                            <a href="#" class="text-decoration-none">
+                                <div class="servbox p-4 position-relative">
+                                    <img src="images/icons/app-development.png" />
+                                    <span class="space20"></span>
+                                    <p class="semiBold semiMedium clrBlack text-uppercase">Web Applications</p>
+                                    <span class="space15"></span>
+                                    <!--<div class="servinfo position-absolute p-4 text-center clrDarkGreen">
+                                        <p class="fontRegular semiBold regular">Any kind of Web based application development is our specialization. We developed & design special application as per your requirement which will fulfill your all business needs and make it easy.</p>
+                                    </div>-->
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <span class="space20"></span>
+                    <a href="#" class="ServiceAnch">View More</a>
+                    <span class="space60"></span>
+                </div>
+                <!--<span class="space30"></span>-->
+            </div>
+        </div>  
+</section>
+    <!-- services end -->
+
+    <!--recent project start  -->
+    <section id="recentproj">
+        <span class="space50"></span>
+        <div class="container">
+            <div class="row">
+                <h4 class="text-center title text-uppercase semiBold">Recent Projects</h4>
+                <div class="gy-5"></div>
+                <div class="gy-2"></div>
+                <div class="col-md-4 content">
+                    <div class="screen">
+                        <a href="#"><img src="images/recent%20projects/nadadeephospital.png" /></a>
+                    </div>
+                </div>
+                <div class="col-md-4 content">
+                    <div class="screen">
+                        <a href="#"><img src="images/Recent%20Projects/medcare%20solutions.png" /></a>
+                    </div>
+                </div>
+                <div class="col-md-4 content">
+                    <div class="screen">
+                        <a href="#"></a><img src="images/Recent%20Projects/dsk%20networks.png" />
+                    </div>
+                </div>
+            </div>
+            <span class="space50"></span>
+            <div class="text-center">
+                <a href="#" class="viewmoreAnch">View More</a>
+                <span class="space20"></span>
+            </div>
+            <span class="space60"></span>
+        </div>
+
+       
+
+        <!--<div class="container text-center">
+            <div class="row">-->
+                <!--<h4 class="text-center title text-uppercase semiBold">Recent Projects</h4>
+                <div class="gy-5"></div>
+                <div class="gy-2"></div>
+                <div class="col-md-4 col-md-offset-4 content">
+                    <div class="screen">
+                        <img src="images/Recent%20Projects/nadadeephospital.png" />
+                    </div>
+
+                </div>-->
+                
+                <!--<div class="col-lg-4" data-aos="zoom-in-right" data-aos-duration="1000">
+                    <div class="p-2 border">
+                        <a href="#" class="text-decoration-none">
+                            <div class="projbox position-relative">
+                                <img src="images/Recent%20Projects/portfolio_76.jpg" class="img-fluid projbox w-100" />
+                                <div class="p-3">
+                                    <div class="projboxinfo position-absolute p-4">
+                                        <h6 class="semiBold semiMedium themeClrPrime">Poppins Store</h6>
+                                        <p class="fontRegular regular clrDarkGrey">India is a melange of colours, cuisines, cultures and more.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>-->
+                <!--<div class="col-lg-4" data-aos="zoom-in-right" data-aos-duration="1000">
+                    <div class="p-2 border">
+                        <a href="#" class="text-decoration-none">
+                            <div class="projbox position-relative">
+                                <img src="images/Recent%20Projects/portfolio_76.jpg" class="img-fluid projbox w-100" />
+                                <div class="p-3">
+                                    <div class="projboxinfo position-absolute p-4">
+                                        <h6 class="semiBold semiMedium themeClrPrime">Poppins Store</h6>
+                                        <p class="fontRegular regular clrDarkGrey">India is a melange of colours, cuisines, cultures and more.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4" data-aos="zoom-in-right" data-aos-duration="1000">
+                    <div class="p-2 border">
+                        <a href="#" class="text-decoration-none">
+                            <div class="projbox position-relative">
+                                <img src="images/Recent%20Projects/portfolio_76.jpg" class="img-fluid projbox w-100" />
+                                <div class="p-3">
+                                    <div class="projboxinfo position-absolute p-4">
+                                        <h6 class="semiBold semiMedium themeClrPrime">Poppins Store</h6>
+                                        <p class="fontRegular regular clrDarkGrey">India is a melange of colours, cuisines, cultures and more.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>-->
+            <!--</div>-->
+            
+        <!--</div>-->
+    </section>
+    <!--recent project end  -->
+
+    <!-- News Start -->
+    <section id="news">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6 p-3 d-flex align-items-center justify-content-center">
+                    <div class="">
+                        <h4 class="title text-uppercase semiBold mb-5">News</h4>
+                        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
+                                <div class="carousel-indicators">
+                                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 1"></button>
+                                </div>
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <h6 class="themeClrPrime semiBold semiMedium gy-0">Ecommerce Website for business</h6>
+                                    <span class="tiny clrGrey fst-italic">12 Sept 2022 </span>
+                                    <p class="fontRegular small lh-5 clrDarkGrey mt-3 mb-5">Internet marketing and product sell on internet market is now playing vital role in business. If your business not still present on internet, then def... internet, then def...</p>
+                                </div>
+                                <div class="carousel-item">
+                                    <h6 class="themeClrPrime semiBold semiMedium gy-0">Ecommerce Website for business</h6>
+                                    <span class="tiny clrGrey fst-italic">12 Sept 2022 </span>
+                                    <p class="fontRegular small lh-5 clrDarkGrey mt-3 mb-5">Internet marketing and product sell on internet market is now playing vital role in business. If your business not still present on internet, then def... internet, then def...</p>
+                                </div>
+                                <div class="carousel-item">
+                                    <h6 class="themeClrPrime semiBold semiMedium gy-0">Ecommerce Website for business</h6>
+                                    <span class="tiny clrGrey fst-italic">12 Sept 2022 </span>
+                                    <p class="fontRegular small lh-5 clrDarkGrey mt-3 mb-5">Internet marketing and product sell on internet market is now playing vital role in business. If your business not still present on internet, then def... internet, then def...</p>
+                                </div>
+                            </div>
+                            <!--<button class="carousel-control-prev" type="button" data-bs-target="#carouselexampleindicators" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <img src="images/icons/square-prev-next.png" />
+                                <span class="visually-hidden">previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselexampleindicators" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <img src="images/icons/square-prev-next.png" />
+                                <span class="visually-hidden">next</span>
+                            </button>-->
+                        </div>
+                        <!--<h6 class="themeClrPrime semiBold semiMedium gy-0">Ecommerce Website for business</h6>
+                        <span class="tiny clrGrey fst-italic">12 Sept 2022 </span>
+                        <p class="fontRegular small lh-5 clrDarkGrey mt-3 mb-5">Internet marketing and product sell on internet market is now playing vital role in business. If your business not still present on internet, then def... internet, then def...</p>-->
+                        <a href="#" class="readmoreAnch">Read More</a>
+                    </div>
+                </div> 
+                <div class="col-sm-6 p-3">
+                    <img src="images/news-image.png" class="img-fluid w-100"/>
+                </div> 
+
+                <!--<h4 class="text-center title text-uppercase semiBold">News</h4>
+            <div class="gy-5"></div>
+            <div class="col-sm-6 col-xs-12">
+                <div class="card">
+                    <div class="card-header fst-italic clrDarkGrey">
+                        5 Sept 2022
+                    </div>
+                    <div class="card-body">
+                        <blockquote class="blockquote mb-0">
+                            <p class="semiMedium semiBold mb-4">Ecommerce Website for business</p>
+                            <footer class="blockquote-footer fontRegular">Internet marketing and product sell on internet market is now playing vital role in business. If your business not still present on internet, then def... <span class="space20"></span><a href="#" class="text-decoration-none"><span title="Read More" class="readmoreAnch">Read More</span></a><span class="space15"></span></footer>
+                        </blockquote>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-xs-12">
+                <div class="card">
+                    <div class="card-header fst-italic clrDarkGrey">
+                        5 Sept 2022
+                    </div>
+                    <div class="card-body">
+                        <blockquote class="blockquote mb-0">
+                            <p class="semiMedium semiBold mb-4">Ecommerce Website for business</p>
+                            <footer class="blockquote-footer fontRegular">Internet marketing and product sell on internet market is now playing vital role in business. If your business not still present on internet, then def... <span class="space20"></span><a href="#" class="text-decoration-none"><span title="Read More" class="readmoreAnch">Read More</span></a><span class="space15"></span></footer>
+                        </blockquote>
+                    </div>
+                </div>
+            </div>
+            <span class="space30"></span>-->
+            </div>
+        </div>
+        <span class="space60"></span>
+    </section>
+    <!-- News End -->
+
+    <!-- Testimonials start -->
+    <span class="space60"></span>
+    <section id="testimonials" class="">
+        <div class="container text-center">
+            <div class="row">
+                <h4 class="text-center title text-uppercase semiBold">Testimonials</h4>
+                <div class="gy-2"></div>
+                <span class="clrDarkGrey semiMedium semiBold text-center text-uppercase">What Are They Saying About Us</span>
+                <span class="space50"></span>
+                <div class="col-lg-4 col-sm-6 col-xs-12">
+                    <div class="p-2">
+                        <div class="text-center quotes text-uppercase semiBold">
+                            <!--<img src="images/icons/quotes.png" />-->
+                            <img src="images/icons/testquote.png" />
+                        </div>
+                        <!--<img src="images/testiimgebig.png"  />-->
+                        <h4 class="semiBold semiMedium mb-0">Pallavi Dhadake</h4>
+                        <span class="small fontRegular themeClrPrime">Shetra Electronics</span>
+                        <p class="fontRegular small mt-2 clrDarkGrey">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.</p>
+                        <div class="testline"></div>
+                    </div>
+                </div>
+
+                <!--<div class="col-lg-4" data-aos="zoom-in-right" data-aos-duration="1000">
+                    <a href="#">
+                        <div class="projbox position-relative">
+                            <img src="images/Recent%20Projects/project1.jpg" class="img-fluid projbox" />
+                            <div class="p-3">
+                                <div class="projboxinfo position-absolute p-4">
+                                    <h6 class="semiBold semiMedium themeClrPrime">Poppins Store</h6>
+                                    <p class="fontRegular regular clrDarkGrey">India is a melange of colours, cuisines, cultures and more. The excitement and the calm.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>-->
+                <div class="col-lg-4 col-sm-6 col-xs-12">
+                    <div class="p-2">
+                        <div class="text-center quotes text-uppercase semiBold">
+                            <img src="images/icons/testquote.png" />
+                        </div>
+                        <!--<img src="images/testiimgebig.png"  />-->
+                        <h4 class="semiBold semiMedium mb-0">Pallavi Dhadake</h4>
+                        <span class="small fontRegular themeClrPrime">Shetra Electronics</span>
+                        <p class="fontRegular small mt-2 clrDarkGrey">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.</p>
+                        <div class="testline"></div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 col-xs-12">
+                    <div class="p-2">
+                        <div class="text-center quotes text-uppercase semiBold">
+                            <img src="images/icons/testquote.png" />
+                        </div>
+                        <!--<img src="images/testiimgebig.png"  />-->
+                        <h4 class="semiBold semiMedium mb-0">Pallavi Dhadake</h4>
+                        <span class="small fontRegular themeClrPrime">Shetra Electronics</span>
+                        <p class="fontRegular small mt-2 clrDarkGrey">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.</p>
+                        <div class="testline"></div>
+                    </div>
+                </div>
+                
+                <!--<div class="col-sm-4 text-center position-relative gy-4">
+                    <div class="testbg">
+                        <div class="p-4">
+                            <div class="testimg position-absolute">
+                                <img src="images/portfolio-6.jpg" class="testimg" />
+                            </div>
+                            <span class="space40"></span>
+                            <span class="space5"></span>
+                            <p class="fontRegular regular mb-3 testquote">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,</p>
+                            <h6 class="semiBold semiMedium themeClrThr">Pallavi Dhadake.</h6>
+                            <span class="clrDarkGrey fontRegular small">Shetra Electronics</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4 text-center position-relative gy-4">
+                    <div class="testbg">
+                        <div class="p-4">
+                            <div class="testimg position-absolute">
+                                <img src="images/portfolio-6.jpg" class="testimg" />
+                            </div>
+                            <span class="space40"></span>
+                            <span class="space5"></span>
+                                <p class="fontRegular regular mb-3 testquote">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,</p>
+                                <h6 class="semiBold semiMedium themeClrThr gy-0">Pallavi Dhadake.</h6>
+                                <span class="clrDarkGrey fontRegular small">Shetra Electronics</span>
+                            </div>
+                    </div>
+                </div>
+                <div class="col-sm-4 text-center position-relative gy-4">
+                    <div class="testbg">
+                        <div class="p-4">
+                            <div class="testimg position-absolute">
+                                <img src="images/portfolio-6.jpg" class="testimg" />
+                            </div>
+                            <span class="space40"></span>
+                            <span class="space5"></span>
+                            <p class="fontRegular regular mb-3 testquote">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                            <h6 class="semiBold semiMedium themeClrThr">Pallavi Dhadake.</h6>
+                            <span class="clrDarkGrey fontRegular small">Shetra Electronics</span>
+                        </div>
+                    </div>
+                </div>-->
+            </div>
+            <span class="space60"></span>
+            <a href="#" class="viewmoreAnch text-center">View More</a>
+            <!--<div class="width80 align-items-center justify-content-center">
+                <div class="row">
+                    <h5 class="text-center title text-uppercase semiBold">Testimonials</h5>
+                    <div class="gy-2"></div>
+                    <span class="clrDarkGrey semiMedium semiBold text-center text-uppercase">What Are They Saying About Us</span>
+                    <span class="space40"></span>
+                    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
+                        <div class="carousel-indicators">
+                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                        </div>
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <div class="testborder">
+                                    <div class="row">
+                                        <div class="col-sm-9">
+                                            <span class="space10"></span>
+                                            <p class="fontRegular testinfo small clrDarkGrey ms-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,</p>
+                                            <p class="semiBold semiMedium ms-3">Pallavi Dhadake<br /><span class="clrDarkGrey fontRegular small">Shetra Electronics</span></p>
+                                        </div>
+                                        <div class="col-sm-3">
+                                            <img src="images/about.jpg" class="img-fluid testimg" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="testborder">
+                                    <div class="row">
+                                        <div class="col-sm-9">
+                                            <span class="space10"></span>
+                                            <p class="fontRegular testinfo small clrDarkGrey ms-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,</p>
+                                            <p class="semiBold semiMedium ms-3">Pallavi Dhadake<br /><span class="clrDarkGrey fontRegular small">Shetra Electronics</span></p>
+                                        </div>
+                                        <div class="col-sm-3">
+                                            <img src="images/about.jpg" class="img-fluid testimg" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="testborder">
+                                    <div class="row">
+                                        <div class="col-sm-9">
+                                            <span class="space10"></span>
+                                            <p class="fontRegular testinfo small clrDarkGrey ms-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,</p>
+                                            <p class="semiBold semiMedium ms-3">Pallavi Dhadake<br /><span class="clrDarkGrey fontRegular small">Shetra Electronics</span></p>
+                                        </div>
+                                        <div class="col-sm-3">
+                                            <img src="images/about.jpg" class="img-fluid testimg" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>-->
+        </div>
+        <span class="space80"></span>
+    </section>
+    <!-- Testimonials end -->
+
+
+    <section id="clients">
+        <div class="container">
+            <div class="row">
+                <h4 class="text-center title text-uppercase semiBold">Our Clients</h4>
+                <div class="gy-5"></div>
+                <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
+                    <div class="carousel-indicators">
+                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 4"></button>
+
+                    </div>
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <div class="row row-cols-lg-6 row-cols-sm-3 row-cols-xs-3 text-center gy-3">
+                                <div class="col">
+                                    <img src="images/clients/partner-hover1.png" class="img-fluid" />
+                                </div>
+                                <div class="col">
+                                    <img src="images/clients/partner-hover3.png" class="img-fluid" />
+                                </div>
+                                <div class="col">
+                                    <img src="images/clients/partner-hover1.png" class="img-fluid" />
+                                </div>
+                                <div class="col">
+                                    <img src="images/clients/partner-hover3.png" class="img-fluid" />
+                                </div>
+                                <div class="col">
+                                    <img src="images/clients/partner-hover1.png" class="img-fluid" />
+                                </div>
+                                <div class="col">
+                                    <img src="images/clients/partner-hover3.png" class="img-fluid" />
+                                </div>
+                            </div>
+                            <!--<div class="carousel-caption d-none d-md-block">
+                                <h5>First slide label</h5>
+                                <p>Some representative placeholder content for the first slide.</p>
+                            </div>-->
+                        </div>
+                        <div class="carousel-item">
+                            <div class="row">
+                                <div class="col-2">
+                                    <img src="images/clients/partner-hover1.png" />
+                                </div>
+                                <div class="col-2">
+                                    <img src="images/clients/partner-hover3.png" />
+                                </div>
+                                <div class="col-2">
+                                    <img src="images/clients/partner-hover1.png" />
+                                </div>
+                                <div class="col-2">
+                                    <img src="images/clients/partner-hover3.png" />
+                                </div>
+                                <div class="col-2">
+                                    <img src="images/clients/partner-hover1.png" />
+                                </div>
+                                <div class="col-2">
+                                    <img src="images/clients/partner-hover3.png" />
+                                </div>
+                            </div>
+                            <!--<div class="carousel-caption d-none d-md-block">
+                                <h5>Second slide label</h5>
+                                <p>Some representative placeholder content for the second slide.</p>
+                            </div>-->
+                        </div>
+                        <div class="carousel-item">
+                            <div class="row">
+                                <div class="col-2">
+                                    <img src="images/clients/partner-hover1.png" />
+                                </div>
+                                <div class="col-2">
+                                    <img src="images/clients/partner-hover3.png" />
+                                </div>
+                                <div class="col-2">
+                                    <img src="images/clients/partner-hover1.png" />
+                                </div>
+                                <div class="col-2">
+                                    <img src="images/clients/partner-hover3.png" />
+                                </div>
+                                <div class="col-2">
+                                    <img src="images/clients/partner-hover1.png" />
+                                </div>
+                                <div class="col-2">
+                                    <img src="images/clients/partner-hover3.png" />
+                                </div>
+                            </div>
+                            <!--<div class="carousel-caption d-none d-md-block">
+                                <h5>Third slide label</h5>
+                                <p>Some representative placeholder content for the third slide.</p>
+                            </div>-->
+                        </div>
+                    </div>
+                    <!--<button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>-->
+                </div>
+            </div>
+        </div>
+        <span class="space60"></span>
+        <span class="space60"></span>
+    </section>
+
+
+    <!-- Our Clients Start -->
+    <span class="space40"></span>
+    <!-- Our Clients end -->
+
+    <!-- Our clients trail start -->
+    <!--<section id="client">-->
+    <div class="container">
+        <div class="row">
+            <div class="our-clients slider">
+                <div class="slide">
+                    <div class="col">
+                        <img src="images/clients/partner-hover1.png" class="img-fluid" /> 
+                    </div>
+                    <div class="col">
+                        <img src="images/clients/partner-hover1.png" class="img-fluid" />
+                    </div>
+                    <div class="col">
+                        <img src="images/clients/partner-hover1.png" class="img-fluid" />
+                    </div>
+                    <div class="col">
+                        <img src="images/clients/partner-hover3.png" class="img-fluid" />
+                    </div>
+                    <div class="col">
+                        <img src="images/clients/partner-hover1.png" class="img-fluid" />
+                    </div>
+                </div>
+            </div>
+        </div>  
+    </div>
+    <!--<div class="col_1140">
+        <section class="our-clients slider">
+            <div class="slide">
+                <img src="images/clients/partner-hover1.png" />
+                <span class="">Angluar Web-based techonology</span>
+                <img src="images/clients/partner-hover3.png" />
+                <img src="images/clients/partner-hover1.png" />
+                <img src="images/clients/net-core.jpg" />
+                <img src="images/clients/asp-net.jpg" />
+                <img src="images/clients/asp-net.jpg" />
+                <img src="images/clients/azure-cognitive.jpg" />
+                <img src="images/clients/flutter.jpg" />
+                <img src="images/clients/react.jpg" />
+            </div>
+        </section>
+    </div>-->
+       
+    <!--</section>-->
+
+    <!--<div class="col_1140 txtCenter">
+        <h4 class="extra-large clrWhite fontRegular mrg_B_10">Meet Our Doctors</h4>
+        <section class="doc-profile slider">
+            <%= docMarkup %>
+        </section>
+    </div>-->
+    <span class="space30"></span>
+    <!-- Our clients trail end -->
+
+    <section id="footer" class="bg-black">
+        <div class="p-4">
+            <p class="clrWhite">
+                &copy; Intellect Systems Pvt. Ltd. <span class="themeClrThr ms-3">Privacy Statement | Terms of Use</span>
+                <a href="#" target="_blank" class="fb socialIco float-end" title="Visit Facebook"></a>
+                <a href="#" target="_blank" class="twt socialIco float-end" title="Visit Twitter"></a>
+                <a href="#" target="_blank" class="linkden socialIco float-end" title="Visit Linkedin"></a>
+            </p>
+        </div>
+        <div class="clearfix"> </div>
+    </section>
+   
+  
+    <!--  JS Files -->
+    <script src="js/jquery-1.8.2.min.js"></script>
+    <script src="js/slick.js"></script>
+    <script src="Vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!--<script src="Vendor/aos/aos.js"></script>-->
+    <script src="Vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="Vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
+    
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+           
+            $('.our-clients').slick({
+                slidesToShow: 5, slidesToScroll: 1, autoplay: true, autoplaySpeed: 2000, arrows: false, dots: true, pauseOnHover: true,
+                responsive: [{ breakpoint: 876, settings: { slidesToShow: 4 } }, { breakpoint: 656, settings: { slidesToShow: 3 } }, { breakpoint: 496, settings: { slidesToShow: 2 } }, { breakpoint: 376, settings: { slidesToShow: 1 } }]
+            });
+           alert("function called");
+        });
+    </script>
+
+    <script>
+        AOS.init();
+    </script>
+
+</body>
+</html>
